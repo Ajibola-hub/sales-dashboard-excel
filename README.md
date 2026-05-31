@@ -419,33 +419,6 @@ This project illustrates proficiency in:
 - Strategic recommendation formulation
 - ROI and performance optimization
 
----
-
-## 🤝 Contributing
-
-This is a **portfolio project**. If you're reviewing this for hiring purposes:
-- ✅ Feel free to fork and enhance the analysis
-- ✅ Add additional visualizations or insights
-- ✅ Improve documentation or design
-- ✅ Suggest analytical improvements
-
-For inquiries about methodology or analysis approach, please contact the project owner.
-
----
-
-## 📧 Contact & Professional Links
-
-**GitHub**: [@Ajibola-hub](https://github.com/Ajibola-hub)
-
-**LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
-**Email**: [Your Email]
-
----
-
-## 📝 License
-
-This project is provided as a portfolio demonstration. The analysis and documentation are original work. Data is synthetic/anonymized for educational purposes.
 
 ---
 
@@ -466,12 +439,5 @@ Potential future improvements:
 **Last Updated**: May 2026
 
 **Project Status**: ✅ Complete and Ready for Review
-
----
-
-### ⭐ If this project is helpful or showcases skills you're looking for, please consider:
-- Starring this repository
-- Sharing with your network
-- Providing feedback or suggestions
 
 Thank you for reviewing this project!

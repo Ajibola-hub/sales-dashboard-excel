@@ -52,11 +52,3 @@ Businesses need visibility into sales performance, customer activity, regional t
 * Business Intelligence
 * Data Visualization
 
-## Repository Structure
-
-sales-dashboard-excel/
-├── README.md
-├── Sales_Dashboard.xlsx
-├── dashboard_screenshot.png
-├── insights.md
-└── dataset.csv
